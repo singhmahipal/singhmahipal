@@ -26,7 +26,7 @@ Since **July 24th, 2025**, I’ve been actively contributing to GitHub — with 
 
 ### 💻 Programming Languages & Tools
 <p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,sql,redux,bootstrap,tailwind,git,github,vscode,postman,vercel,figma" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,redux,bootstrap,tailwind,git,github,vscode,postman,vercel,figma" />
 </p>
 
 ---
