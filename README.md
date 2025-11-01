@@ -10,12 +10,12 @@ Hello! I'm **Mahipal Singh**, a passionate **MERN Stack Developer** who loves bu
 
 Since **July 24th, 2025**, I’ve been actively contributing to GitHub — with **100+ contributions** so far and counting! 💪
 
-- 🔭 I’m currently working on improving and scaling **QuickGPT**, **SparkLink**, and **Talkify**.  
-- 🌱 I’m currently learning **Next.js, TypeScript, and Docker**.  
+- 🔭 I’ve worked on **QuickGPT**, **SparkLink**, and **Talkify**.  
+- 🌱 I’m currently learning **Web Development**.  
 - 👯 I’m looking to collaborate on **open-source MERN stack projects**.  
 - 🤔 I’m looking for help with **optimizing performance in large-scale React apps**.  
 - 💬 Ask me about **MERN Stack, REST APIs, and clean architecture**.  
-- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/mahipalsingh)** or **[Instagram](https://www.instagram.com/mahipalsingh)**  
+- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/mahipalsingh7)** or **[Instagram](https://www.instagram.com/mahipalsingh)**  
 - ⚡ Fun fact: I can debug faster with music on 🎧  
 
 > “Hello there~ 👋”
@@ -26,7 +26,7 @@ Since **July 24th, 2025**, I’ve been actively contributing to GitHub — with 
 
 ### 💻 Programming Languages & Tools
 <p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,redux,nextjs,bootstrap,tailwind,docker,git,github,vscode,postman,vercel,figma" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,redux,bootstrap,tailwind,git,github,vscode,postman,vercel,figma" />
 </p>
 
 ---
@@ -40,21 +40,21 @@ Since **July 24th, 2025**, I’ve been actively contributing to GitHub — with 
 
 ## 🎮 My Projects
 
-### ⚡ [QuickGPT](https://github.com/singhmahipal/quickgpt)
+### ⚡ [QuickGPT](https://github.com/singhmahipal/QuickGPT)
 A lightweight and fast AI-powered web app inspired by ChatGPT.  
 **Features:** Real-time chat, prompt saving, responsive UI.  
 **Tech Stack:** React, Node.js, Express, MongoDB, OpenAI API.
 
 ---
 
-### 🔗 [SparkLink](https://github.com/singhmahipal/sparklink)
+### 🔗 [SparkLink](https://github.com/singhmahipal/SparkLink)
 A modern URL shortener with analytics and user authentication.  
 **Features:** Shorten links, track clicks, manage URLs easily.  
 **Tech Stack:** MERN Stack, JWT Auth, Chart.js, TailwindCSS.
 
 ---
 
-### 💬 [Talkify](https://github.com/singhmahipal/talkify)
+### 💬 [Talkify](https://github.com/singhmahipal/Talkify)
 A real-time chat app for connecting people instantly.  
 **Features:** Live chat, user status, responsive design.  
 **Tech Stack:** React, Socket.io, Node.js, Express, MongoDB.
@@ -63,7 +63,7 @@ A real-time chat app for connecting people instantly.
 
 ## 🤝 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahipalsingh)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahipalsingh7)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mahipalsingh)
 
 ---
@@ -80,7 +80,7 @@ A real-time chat app for connecting people instantly.
 
 - **Started contributing:** July 24th, 2025  
 - **Total contributions:** 100+  
-- **Current streak:** 6 days 🔥  
-- **Status:** Working on **QuickGPT, SparkLink & Talkify**
+- **Current streak:** 7 days 🔥  
+- **Status:** Working on **Zerodha Clone**
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=singhmahipal&theme=tokyonight&hide_border=true)
