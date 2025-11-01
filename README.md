@@ -1,16 +1,86 @@
-## Hi there 👋
+# 👋 Welcome to My GitHub Profile!
 
-<!--
-**singhmahipal/singhmahipal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=singhmahipal&theme=tokyonight&hide_border=true)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 About Me
+
+Hello! I'm **Mahipal Singh**, a passionate **MERN Stack Developer** who loves building modern web applications, experimenting with new technologies, and creating efficient, scalable solutions for real-world problems.
+
+Since **July 24th, 2025**, I’ve been actively contributing to GitHub — with **100+ contributions** so far and counting! 💪
+
+- 🔭 I’m currently working on improving and scaling **QuickGPT**, **SparkLink**, and **Talkify**.  
+- 🌱 I’m currently learning **Next.js, TypeScript, and Docker**.  
+- 👯 I’m looking to collaborate on **open-source MERN stack projects**.  
+- 🤔 I’m looking for help with **optimizing performance in large-scale React apps**.  
+- 💬 Ask me about **MERN Stack, REST APIs, and clean architecture**.  
+- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/mahipalsingh)** or **[Instagram](https://www.instagram.com/mahipalsingh)**  
+- ⚡ Fun fact: I can debug faster with music on 🎧  
+
+> “Hello there~ 👋”
+
+---
+
+## 🚀 Skills & Technologies
+
+### 💻 Programming Languages & Tools
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,redux,nextjs,bootstrap,tailwind,docker,git,github,vscode,postman,vercel,figma" />
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+![Mahipal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=singhmahipal&show_icons=true&theme=tokyonight&hide_border=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=singhmahipal&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+## 🎮 My Projects
+
+### ⚡ [QuickGPT](https://github.com/singhmahipal/quickgpt)
+A lightweight and fast AI-powered web app inspired by ChatGPT.  
+**Features:** Real-time chat, prompt saving, responsive UI.  
+**Tech Stack:** React, Node.js, Express, MongoDB, OpenAI API.
+
+---
+
+### 🔗 [SparkLink](https://github.com/singhmahipal/sparklink)
+A modern URL shortener with analytics and user authentication.  
+**Features:** Shorten links, track clicks, manage URLs easily.  
+**Tech Stack:** MERN Stack, JWT Auth, Chart.js, TailwindCSS.
+
+---
+
+### 💬 [Talkify](https://github.com/singhmahipal/talkify)
+A real-time chat app for connecting people instantly.  
+**Features:** Live chat, user status, responsive design.  
+**Tech Stack:** React, Socket.io, Node.js, Express, MongoDB.
+
+---
+
+## 🤝 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahipalsingh)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mahipalsingh)
+
+---
+
+## 🖼️ A Little About My Work
+
+![Banner Image](https://github.com/singhmahipal/singhmahipal/blob/main/banner.png)
+
+> *“Striving for simplicity and efficiency in everything I do.”*
+
+---
+
+## 📅 Current Status
+
+- **Started contributing:** July 24th, 2025  
+- **Total contributions:** 100+  
+- **Current streak:** 6 days 🔥  
+- **Status:** Working on **QuickGPT, SparkLink & Talkify**
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=singhmahipal&theme=tokyonight&hide_border=true)
