@@ -8,7 +8,7 @@
 
 Hello! I'm **Mahipal Singh**, a passionate **MERN Stack Developer** who loves building modern web applications, experimenting with new technologies, and creating efficient, scalable solutions for real-world problems.
 
-Since **July 24th, 2025**, I’ve been actively contributing to GitHub — with **100+ contributions** so far and counting! 💪
+Since **July 24th, 2025**, I’ve been actively contributing to GitHub — with **150+ contributions** so far and counting! 💪
 
 - 🔭 I’ve worked on **QuickGPT**, **SparkLink**, and **Talkify**.  
 - 🌱 I’m currently learning **Web Development**.  
@@ -64,7 +64,7 @@ A real-time chat app for connecting people instantly.
 ## 🤝 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahipalsingh7)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mahipalsingh)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/syntax singh')
 
 ---
 
@@ -79,8 +79,8 @@ A real-time chat app for connecting people instantly.
 ## 📅 Current Status
 
 - **Started contributing:** July 24th, 2025  
-- **Total contributions:** 100+  
+- **Total contributions:** 150+  
 - **Current streak:** 7 days 🔥  
-- **Status:** Working on **Zerodha Clone**
+- **Status:** Working on **Zoom Clone**
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=singhmahipal&theme=tokyonight&hide_border=true)
